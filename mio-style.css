@@ -24,3 +24,13 @@
 .ex-2-square{
   transition: width 2s;
 }
+
+/* third exercise */
+
+.ex-3-square:hover{
+  border-radius: 50%;
+}
+
+.ex-3-square{
+  transition: border-radius 0.5s;
+}
