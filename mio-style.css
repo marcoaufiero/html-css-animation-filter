@@ -112,3 +112,22 @@
     transform: rotate(360deg);
   }
 }
+
+/* eleventh exercise */
+
+.ex-11-icon:hover{
+  animation-name: icon270;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+}
+
+@keyframes icon270{
+  0%{
+    transform: rotate(0deg);
+  }
+
+  90%{
+    transform: rotate(270deg);
+  }
+}
+
