@@ -45,3 +45,17 @@
   transition: opacity 1s;
 }
 
+/* fifth exercise */
+
+.ex-5-square:hover{
+  scale: 2;
+}
+
+.ex-5-square:active{
+  scale: 0.5;
+}
+
+.ex-5-square{
+  transition: 2s;
+}
+
