@@ -34,3 +34,14 @@
 .ex-3-square{
   transition: border-radius 0.5s;
 }
+
+/* fourth exercise */
+
+.ex-4-square:hover{
+  opacity: 0;
+}
+
+.ex-4-square{
+  transition: opacity 1s;
+}
+
