@@ -85,3 +85,15 @@
 .ex-8-img{
   transition: 2s;
 }
+
+/* ninth exercise */
+
+.ex-9-img:hover{
+  scale: 1.5;
+  border-radius: 20px;
+  filter: sepia(1)
+}
+
+.ex-9-img{
+  transition: 2s;
+}
