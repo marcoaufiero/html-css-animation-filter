@@ -97,3 +97,18 @@
 .ex-9-img{
   transition: 2s;
 }
+
+/* tenth exercise */
+
+.ex-10-icon{
+  animation-name: icon360;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes icon360{
+  0%{
+    transform: rotate(360deg);
+  }
+}
