@@ -74,3 +74,14 @@
 .ex-7-img{
   transition: 2s;
 }
+
+/* eighth exercise */
+
+.ex-8-img:hover{
+  border-radius: 20px;
+  filter: grayscale(0.8);
+}
+
+.ex-8-img{
+  transition: 2s;
+}
